@@ -1,0 +1,1 @@
+android app to start wireless adhoc network that enables diverse data services.
